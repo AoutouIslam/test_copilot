@@ -1,0 +1,1 @@
+# This file contains information about the images used in the game, such as sprites and backgrounds.
